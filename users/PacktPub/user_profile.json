@@ -1,0 +1,110 @@
+{
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "http://t.co/vEPCgOu235",
+                    "expanded_url": "http://www.PacktPub.com",
+                    "indices": [
+                        0,
+                        22
+                    ],
+                    "display_url": "PacktPub.com"
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "name": "Packt",
+    "description": "We help developers build better software | Email customercare@packtpub.com for support | Twitter support 9-5 Mon-Fri",
+    "favourites_count": 1260,
+    "time_zone": "London",
+    "protected": false,
+    "profile_sidebar_fill_color": "CC9933",
+    "notifications": false,
+    "following": false,
+    "verified": true,
+    "followers_count": 20048,
+    "id": 17778401,
+    "status": {
+        "entities": {
+            "user_mentions": [],
+            "symbols": [],
+            "hashtags": [
+                {
+                    "text": "tech",
+                    "indices": [
+                        47,
+                        52
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/yvJHG24oWL",
+                    "expanded_url": "https://twitter.com/i/web/status/856935096716316673",
+                    "indices": [
+                        102,
+                        125
+                    ],
+                    "display_url": "twitter.com/i/web/status/8\u2026"
+                }
+            ]
+        },
+        "contributors": null,
+        "in_reply_to_status_id": null,
+        "coordinates": null,
+        "truncated": true,
+        "retweet_count": 0,
+        "id_str": "856935096716316673",
+        "retweeted": false,
+        "id": 856935096716316673,
+        "favorite_count": 0,
+        "source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "in_reply_to_screen_name": null,
+        "possibly_sensitive": false,
+        "place": null,
+        "created_at": "Tue Apr 25 18:17:02 +0000 2017",
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "favorited": false,
+        "in_reply_to_status_id_str": null,
+        "text": "Feel like taking a survey? Help us map today's #tech landscape. Get a 70% off code for your trouble.\u2026 https://t.co/yvJHG24oWL",
+        "geo": null,
+        "is_quote_status": false
+    },
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/763664369850933250/Qbroz7iN_normal.jpg",
+    "translator_type": "none",
+    "created_at": "Mon Dec 01 13:16:47 +0000 2008",
+    "profile_background_tile": true,
+    "profile_use_background_image": true,
+    "default_profile_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/763664369850933250/Qbroz7iN_normal.jpg",
+    "default_profile": false,
+    "profile_background_color": "FFA200",
+    "is_translation_enabled": false,
+    "statuses_count": 17652,
+    "profile_location": null,
+    "friends_count": 1164,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/498821312354058242/-H6BGz56.png",
+    "contributors_enabled": false,
+    "lang": "en",
+    "geo_enabled": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/17778401/1476694720",
+    "id_str": "17778401",
+    "location": "Birmingham, UK",
+    "has_extended_profile": false,
+    "profile_sidebar_border_color": "000000",
+    "follow_request_sent": false,
+    "is_translator": false,
+    "profile_link_color": "0084B4",
+    "url": "http://t.co/vEPCgOu235",
+    "screen_name": "PacktPub",
+    "utc_offset": 3600,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/498821312354058242/-H6BGz56.png",
+    "listed_count": 1183,
+    "profile_text_color": "666666"
+}
